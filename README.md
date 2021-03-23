@@ -9,7 +9,9 @@ vultr的日本机房延迟很低，但用起来总感觉不太爽，一测才知
 https://www.jianshu.com/p/513803527d91
 
 vultr邀请链接
-10刀长期
+
+10刀长期：
 https://www.vultr.com/?ref=7001033
-100刀有效期1个月
+
+100刀有效期1个月：
 https://www.vultr.com/?ref=8490185-6G
